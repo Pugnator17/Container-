@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Container
+comment1.params=code\ farbe
+comment1.target=Container(int,\ java.awt.Color)
+comment2.params=
+comment2.target=int\ getCode()
+comment3.params=code
+comment3.target=void\ setCode(int)
+comment4.params=
+comment4.target=java.awt.Color\ getFarbe()
+comment5.params=farbe
+comment5.target=void\ setFarbe(java.awt.Color)
+numComments=6

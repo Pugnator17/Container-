@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ContainerSideView
+comment1.params=controller
+comment1.target=ContainerSideView(ContainerController)
+comment2.params=x\ stapel
+comment2.target=void\ updateView(int,\ Stack)
+comment3.params=
+comment3.target=void\ updateView()
+comment4.params=
+comment4.target=void\ close()
+numComments=5
